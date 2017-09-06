@@ -16,5 +16,9 @@ Installation
 Usage
 =====
 
+::
+
+   extern crate drylib as dry;
+
 Reference
 =========
