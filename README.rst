@@ -14,6 +14,11 @@ DRYlib for Rust
 
 http://drylib.org
 
+Prerequisites
+=============
+
+* Rust 1.20+
+
 Features
 ========
 
